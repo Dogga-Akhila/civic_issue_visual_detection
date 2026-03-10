@@ -139,13 +139,21 @@ Example predictions include:
 Bounding boxes are drawn around detected objects with confidence scores.
 
 ---
-## Results
-Visual Detection Model Performance Summary (Overall Performance)
-Performance Metric	Value
-mAP@50	0.847
-Precision	0.883
-Recall	0.783
-mAP@50:95	0.624
+## Model Performance
+
+| Metric | Value |
+|------|------|
+| mAP@50 | 0.847 |
+| Precision | 0.883 |
+| Recall | 0.783 |
+| mAP@50:95 | 0.624 |
+
+These metrics represent the overall performance of the trained visual detection model on the combined civic issue dataset, which includes:
+
+- Garbage detection
+- Road damage detection
+- Pipeline damage detection
+- Water stagnation detection
 
 ---
 ## Applications
