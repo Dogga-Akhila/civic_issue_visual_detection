@@ -139,7 +139,15 @@ Example predictions include:
 Bounding boxes are drawn around detected objects with confidence scores.
 
 ---
+## Results
+Visual Detection Model Performance Summary (Overall Performance)
+Performance Metric	Value
+mAP@50	0.847
+Precision	0.883
+Recall	0.783
+mAP@50:95	0.624
 
+---
 ## Applications
 
 Potential real-world applications include:
