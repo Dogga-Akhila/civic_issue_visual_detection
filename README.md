@@ -157,7 +157,7 @@ Potential real-world applications include:
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/civic-issue-visual-detection.git
+git clone https://github.com/Dogga-Akhila/civic-issue-visual-detection.git
 ```
 
 Install dependencies:
